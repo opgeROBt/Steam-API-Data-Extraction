@@ -11,3 +11,7 @@ Data management setup:
 #example how to write the project: 
 https://zenodo.org/record/5902839#.YfAO02DTX0o
 
+#steam webAPI (And others) documentation) 
+https://partner.steamgames.com/doc/webapi
+
+

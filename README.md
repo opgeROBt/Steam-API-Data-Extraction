@@ -8,10 +8,10 @@ Data management setup:
 3. generated files into 'oDCM/gen/'  
 
 
-#example how to write the project: 
+#example how to write the project:  
 https://zenodo.org/record/5902839#.YfAO02DTX0o
 
-#steam webAPI (And others) documentation) 
+#steam webAPI (And others) documentation)  
 https://partner.steamgames.com/doc/webapi
 
 

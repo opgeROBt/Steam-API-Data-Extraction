@@ -1,0 +1,735 @@
+,id,description,steam_appid
+0,2,Single-player,612440
+0,2,Single-player,612470
+1,1,Multi-player,612470
+2,49,PvP,612470
+3,36,Online PvP,612470
+4,22,Steam Achievements,612470
+5,23,Steam Cloud,612470
+6,25,Steam Leaderboards,612470
+7,17,Includes level editor,612470
+0,2,Single-player,612491
+1,21,Downloadable Content,612491
+2,22,Steam Achievements,612491
+3,29,Steam Trading Cards,612491
+4,23,Steam Cloud,612491
+0,1,Multi-player,612500
+1,9,Co-op,612500
+2,27,Cross-Platform Multiplayer,612500
+3,21,Downloadable Content,612500
+0,2,Single-player,612510
+1,22,Steam Achievements,612510
+2,29,Steam Trading Cards,612510
+3,15,Stats,612510
+0,2,Single-player,612520
+1,17,Includes level editor,612520
+0,2,Single-player,612540
+1,17,Includes level editor,612540
+0,2,Single-player,612570
+1,1,Multi-player,612570
+2,9,Co-op,612570
+3,39,Shared/Split Screen Co-op,612570
+4,24,Shared/Split Screen,612570
+5,22,Steam Achievements,612570
+6,28,Full controller support,612570
+7,29,Steam Trading Cards,612570
+8,23,Steam Cloud,612570
+9,44,Remote Play Together,612570
+0,1,Multi-player,612580
+1,9,Co-op,612580
+2,27,Cross-Platform Multiplayer,612580
+3,21,Downloadable Content,612580
+0,2,Single-player,612590
+1,22,Steam Achievements,612590
+0,2,Single-player,612600
+1,1,Multi-player,612600
+2,49,PvP,612600
+3,36,Online PvP,612600
+4,27,Cross-Platform Multiplayer,612600
+5,22,Steam Achievements,612600
+6,29,Steam Trading Cards,612600
+7,18,Partial Controller Support,612600
+0,1,Multi-player,612610
+1,49,PvP,612610
+2,36,Online PvP,612610
+3,9,Co-op,612610
+4,38,Online Co-op,612610
+5,27,Cross-Platform Multiplayer,612610
+6,22,Steam Achievements,612610
+7,18,Partial Controller Support,612610
+0,2,Single-player,612620
+1,22,Steam Achievements,612620
+2,23,Steam Cloud,612620
+0,2,Single-player,612640
+1,1,Multi-player,612640
+2,49,PvP,612640
+3,37,Shared/Split Screen PvP,612640
+4,9,Co-op,612640
+5,39,Shared/Split Screen Co-op,612640
+6,24,Shared/Split Screen,612640
+7,22,Steam Achievements,612640
+8,28,Full controller support,612640
+9,25,Steam Leaderboards,612640
+10,43,Remote Play on TV,612640
+11,44,Remote Play Together,612640
+0,2,Single-player,612650
+1,21,Downloadable Content,612650
+0,2,Single-player,612660
+1,1,Multi-player,612660
+2,49,PvP,612660
+3,36,Online PvP,612660
+4,9,Co-op,612660
+5,38,Online Co-op,612660
+6,22,Steam Achievements,612660
+7,18,Partial Controller Support,612660
+8,23,Steam Cloud,612660
+9,15,Stats,612660
+10,25,Steam Leaderboards,612660
+0,2,Single-player,612670
+1,22,Steam Achievements,612670
+2,28,Full controller support,612670
+3,29,Steam Trading Cards,612670
+4,23,Steam Cloud,612670
+0,2,Single-player,612720
+1,22,Steam Achievements,612720
+2,23,Steam Cloud,612720
+0,28,Full controller support,612730
+1,33,Native Steam Controller Support,612730
+2,13,Captions available,612730
+0,2,Single-player,612740
+1,22,Steam Achievements,612740
+2,29,Steam Trading Cards,612740
+3,18,Partial Controller Support,612740
+4,23,Steam Cloud,612740
+0,2,Single-player,612750
+1,22,Steam Achievements,612750
+2,15,Stats,612750
+3,25,Steam Leaderboards,612750
+0,2,Single-player,612790
+0,2,Single-player,612810
+1,22,Steam Achievements,612810
+2,29,Steam Trading Cards,612810
+0,2,Single-player,612820
+1,22,Steam Achievements,612820
+2,28,Full controller support,612820
+3,29,Steam Trading Cards,612820
+4,23,Steam Cloud,612820
+0,2,Single-player,612830
+1,10,Game demo,612830
+2,18,Partial Controller Support,612830
+0,2,Single-player,612840
+1,22,Steam Achievements,612840
+2,15,Stats,612840
+3,25,Steam Leaderboards,612840
+4,17,Includes level editor,612840
+0,2,Single-player,612850
+1,10,Game demo,612850
+0,2,Single-player,612870
+1,21,Downloadable Content,612870
+2,22,Steam Achievements,612870
+3,28,Full controller support,612870
+4,29,Steam Trading Cards,612870
+5,23,Steam Cloud,612870
+0,2,Single-player,612880
+1,22,Steam Achievements,612880
+2,28,Full controller support,612880
+3,23,Steam Cloud,612880
+4,43,Remote Play on TV,612880
+0,2,Single-player,612890
+1,22,Steam Achievements,612890
+2,28,Full controller support,612890
+3,23,Steam Cloud,612890
+0,2,Single-player,612900
+1,1,Multi-player,612900
+2,9,Co-op,612900
+3,38,Online Co-op,612900
+4,21,Downloadable Content,612900
+5,22,Steam Achievements,612900
+6,28,Full controller support,612900
+7,29,Steam Trading Cards,612900
+8,35,In-App Purchases,612900
+0,2,Single-player,611960
+1,1,Multi-player,611960
+2,9,Co-op,611960
+3,39,Shared/Split Screen Co-op,611960
+4,29,Steam Trading Cards,611960
+5,44,Remote Play Together,611960
+0,2,Single-player,611970
+1,29,Steam Trading Cards,611970
+0,2,Single-player,611980
+1,22,Steam Achievements,611980
+2,29,Steam Trading Cards,611980
+0,2,Single-player,612000
+1,37,Shared/Split Screen PvP,612000
+2,9,Co-op,612000
+3,39,Shared/Split Screen Co-op,612000
+4,24,Shared/Split Screen,612000
+5,21,Downloadable Content,612000
+6,22,Steam Achievements,612000
+7,28,Full controller support,612000
+8,29,Steam Trading Cards,612000
+9,23,Steam Cloud,612000
+10,25,Steam Leaderboards,612000
+0,2,Single-player,612010
+1,1,Multi-player,612010
+2,49,PvP,612010
+3,36,Online PvP,612010
+4,37,Shared/Split Screen PvP,612010
+5,22,Steam Achievements,612010
+6,29,Steam Trading Cards,612010
+7,15,Stats,612010
+8,25,Steam Leaderboards,612010
+9,44,Remote Play Together,612010
+0,2,Single-player,612020
+1,27,Cross-Platform Multiplayer,612020
+2,22,Steam Achievements,612020
+3,29,Steam Trading Cards,612020
+4,35,In-App Purchases,612020
+5,23,Steam Cloud,612020
+0,2,Single-player,612030
+0,2,Single-player,612040
+1,1,Multi-player,612040
+2,49,PvP,612040
+3,37,Shared/Split Screen PvP,612040
+4,24,Shared/Split Screen,612040
+5,22,Steam Achievements,612040
+6,28,Full controller support,612040
+7,29,Steam Trading Cards,612040
+8,44,Remote Play Together,612040
+0,2,Single-player,612050
+0,2,Single-player,612060
+1,22,Steam Achievements,612060
+0,2,Single-player,612070
+1,22,Steam Achievements,612070
+0,2,Single-player,612100
+1,22,Steam Achievements,612100
+2,29,Steam Trading Cards,612100
+0,2,Single-player,612110
+1,22,Steam Achievements,612110
+2,29,Steam Trading Cards,612110
+3,23,Steam Cloud,612110
+0,2,Single-player,612120
+0,2,Single-player,612130
+1,22,Steam Achievements,612130
+2,23,Steam Cloud,612130
+0,2,Single-player,612140
+1,22,Steam Achievements,612140
+2,18,Partial Controller Support,612140
+3,23,Steam Cloud,612140
+0,2,Single-player,612150
+1,22,Steam Achievements,612150
+2,28,Full controller support,612150
+3,29,Steam Trading Cards,612150
+0,2,Single-player,612160
+1,22,Steam Achievements,612160
+2,28,Full controller support,612160
+3,29,Steam Trading Cards,612160
+0,2,Single-player,612170
+1,22,Steam Achievements,612170
+2,28,Full controller support,612170
+3,43,Remote Play on TV,612170
+0,2,Single-player,612180
+1,22,Steam Achievements,612180
+2,28,Full controller support,612180
+0,2,Single-player,612190
+0,2,Single-player,612200
+1,1,Multi-player,612200
+2,9,Co-op,612200
+3,21,Downloadable Content,612200
+0,2,Single-player,612220
+0,1,Multi-player,612230
+1,49,PvP,612230
+2,36,Online PvP,612230
+3,9,Co-op,612230
+4,38,Online Co-op,612230
+5,27,Cross-Platform Multiplayer,612230
+6,35,In-App Purchases,612230
+0,1,Multi-player,612240
+1,20,MMO,612240
+2,49,PvP,612240
+3,36,Online PvP,612240
+4,27,Cross-Platform Multiplayer,612240
+5,35,In-App Purchases,612240
+0,2,Single-player,612250
+1,1,Multi-player,612250
+2,49,PvP,612250
+3,36,Online PvP,612250
+4,22,Steam Achievements,612250
+5,29,Steam Trading Cards,612250
+6,15,Stats,612250
+0,2,Single-player,612260
+1,21,Downloadable Content,612260
+2,22,Steam Achievements,612260
+3,30,Steam Workshop,612260
+4,18,Partial Controller Support,612260
+5,25,Steam Leaderboards,612260
+0,2,Single-player,612261
+1,21,Downloadable Content,612261
+2,22,Steam Achievements,612261
+3,30,Steam Workshop,612261
+4,18,Partial Controller Support,612261
+5,25,Steam Leaderboards,612261
+0,2,Single-player,612280
+1,10,Game demo,612280
+2,23,Steam Cloud,612280
+0,2,Single-player,612300
+1,17,Includes level editor,612300
+0,2,Single-player,612310
+1,22,Steam Achievements,612310
+2,23,Steam Cloud,612310
+0,2,Single-player,612330
+0,2,Single-player,612370
+1,22,Steam Achievements,612370
+2,28,Full controller support,612370
+3,29,Steam Trading Cards,612370
+4,23,Steam Cloud,612370
+5,15,Stats,612370
+6,25,Steam Leaderboards,612370
+0,2,Single-player,612380
+0,2,Single-player,612390
+1,22,Steam Achievements,612390
+2,28,Full controller support,612390
+3,23,Steam Cloud,612390
+4,43,Remote Play on TV,612390
+0,2,Single-player,612400
+1,28,Full controller support,612400
+2,43,Remote Play on TV,612400
+0,2,Single-player,612420
+1,38,Online Co-op,612420
+2,10,Game demo,612420
+3,28,Full controller support,612420
+0,2,Single-player,611620
+1,22,Steam Achievements,611620
+2,29,Steam Trading Cards,611620
+3,18,Partial Controller Support,611620
+4,23,Steam Cloud,611620
+0,2,Single-player,611630
+1,22,Steam Achievements,611630
+2,28,Full controller support,611630
+3,29,Steam Trading Cards,611630
+4,23,Steam Cloud,611630
+5,15,Stats,611630
+6,25,Steam Leaderboards,611630
+0,2,Single-player,611640
+0,2,Single-player,611650
+1,10,Game demo,611650
+0,2,Single-player,611660
+1,31,VR Support,611660
+2,40,SteamVR Collectibles,611660
+0,2,Single-player,611670
+1,22,Steam Achievements,611670
+2,28,Full controller support,611670
+3,31,VR Support,611670
+4,40,SteamVR Collectibles,611670
+5,23,Steam Cloud,611670
+0,2,Single-player,611690
+1,29,Steam Trading Cards,611690
+0,2,Single-player,611710
+1,22,Steam Achievements,611710
+2,28,Full controller support,611710
+3,29,Steam Trading Cards,611710
+0,2,Single-player,611720
+1,1,Multi-player,611720
+2,9,Co-op,611720
+0,2,Single-player,611730
+1,1,Multi-player,611730
+2,49,PvP,611730
+3,36,Online PvP,611730
+4,37,Shared/Split Screen PvP,611730
+5,24,Shared/Split Screen,611730
+6,18,Partial Controller Support,611730
+7,44,Remote Play Together,611730
+0,2,Single-player,611740
+1,21,Downloadable Content,611740
+2,22,Steam Achievements,611740
+0,2,Single-player,611750
+1,22,Steam Achievements,611750
+2,29,Steam Trading Cards,611750
+3,13,Captions available,611750
+4,18,Partial Controller Support,611750
+5,23,Steam Cloud,611750
+6,25,Steam Leaderboards,611750
+0,2,Single-player,611760
+1,22,Steam Achievements,611760
+2,29,Steam Trading Cards,611760
+3,23,Steam Cloud,611760
+0,2,Single-player,611770
+1,1,Multi-player,611770
+2,9,Co-op,611770
+3,39,Shared/Split Screen Co-op,611770
+4,24,Shared/Split Screen,611770
+5,22,Steam Achievements,611770
+6,28,Full controller support,611770
+7,29,Steam Trading Cards,611770
+8,44,Remote Play Together,611770
+0,2,Single-player,611790
+1,22,Steam Achievements,611790
+2,29,Steam Trading Cards,611790
+3,18,Partial Controller Support,611790
+0,2,Single-player,611800
+1,22,Steam Achievements,611800
+2,18,Partial Controller Support,611800
+3,23,Steam Cloud,611800
+0,2,Single-player,611810
+1,29,Steam Trading Cards,611810
+0,2,Single-player,611820
+1,22,Steam Achievements,611820
+2,28,Full controller support,611820
+0,2,Single-player,611830
+1,1,Multi-player,611830
+2,20,MMO,611830
+3,49,PvP,611830
+4,36,Online PvP,611830
+5,9,Co-op,611830
+6,38,Online Co-op,611830
+7,30,Steam Workshop,611830
+8,18,Partial Controller Support,611830
+9,23,Steam Cloud,611830
+10,17,Includes level editor,611830
+0,2,Single-player,611850
+1,22,Steam Achievements,611850
+2,28,Full controller support,611850
+3,29,Steam Trading Cards,611850
+4,23,Steam Cloud,611850
+5,15,Stats,611850
+6,25,Steam Leaderboards,611850
+0,2,Single-player,611860
+1,22,Steam Achievements,611860
+2,28,Full controller support,611860
+3,29,Steam Trading Cards,611860
+4,23,Steam Cloud,611860
+0,10,Game demo,611890
+0,2,Single-player,611950
+1,21,Downloadable Content,611950
+0,28,Full controller support,611490
+1,33,Native Steam Controller Support,611490
+2,13,Captions available,611490
+0,28,Full controller support,611491
+1,33,Native Steam Controller Support,611491
+2,13,Captions available,611491
+0,28,Full controller support,611492
+1,33,Native Steam Controller Support,611492
+2,13,Captions available,611492
+0,28,Full controller support,611493
+1,33,Native Steam Controller Support,611493
+2,13,Captions available,611493
+0,28,Full controller support,611494
+1,33,Native Steam Controller Support,611494
+2,13,Captions available,611494
+0,28,Full controller support,611495
+1,33,Native Steam Controller Support,611495
+2,13,Captions available,611495
+0,28,Full controller support,611496
+1,33,Native Steam Controller Support,611496
+2,13,Captions available,611496
+0,28,Full controller support,611497
+1,33,Native Steam Controller Support,611497
+2,13,Captions available,611497
+0,28,Full controller support,611498
+1,33,Native Steam Controller Support,611498
+2,13,Captions available,611498
+0,1,Multi-player,611500
+1,49,PvP,611500
+2,36,Online PvP,611500
+3,22,Steam Achievements,611500
+0,28,Full controller support,611510
+1,33,Native Steam Controller Support,611510
+2,13,Captions available,611510
+0,28,Full controller support,611511
+1,33,Native Steam Controller Support,611511
+2,13,Captions available,611511
+0,28,Full controller support,611512
+1,33,Native Steam Controller Support,611512
+2,13,Captions available,611512
+0,28,Full controller support,611513
+1,33,Native Steam Controller Support,611513
+2,13,Captions available,611513
+0,28,Full controller support,611514
+1,33,Native Steam Controller Support,611514
+2,13,Captions available,611514
+0,28,Full controller support,611520
+1,33,Native Steam Controller Support,611520
+2,13,Captions available,611520
+0,28,Full controller support,611521
+1,33,Native Steam Controller Support,611521
+2,13,Captions available,611521
+0,28,Full controller support,611522
+1,33,Native Steam Controller Support,611522
+2,13,Captions available,611522
+0,28,Full controller support,611523
+1,33,Native Steam Controller Support,611523
+2,13,Captions available,611523
+0,28,Full controller support,611524
+1,33,Native Steam Controller Support,611524
+2,13,Captions available,611524
+0,28,Full controller support,611525
+1,33,Native Steam Controller Support,611525
+2,13,Captions available,611525
+0,28,Full controller support,611526
+1,33,Native Steam Controller Support,611526
+2,13,Captions available,611526
+0,28,Full controller support,611527
+1,33,Native Steam Controller Support,611527
+2,13,Captions available,611527
+0,28,Full controller support,611528
+1,33,Native Steam Controller Support,611528
+2,13,Captions available,611528
+0,28,Full controller support,611540
+1,33,Native Steam Controller Support,611540
+2,13,Captions available,611540
+0,28,Full controller support,611541
+1,33,Native Steam Controller Support,611541
+2,13,Captions available,611541
+0,28,Full controller support,611542
+1,33,Native Steam Controller Support,611542
+2,13,Captions available,611542
+0,28,Full controller support,611543
+1,33,Native Steam Controller Support,611543
+2,13,Captions available,611543
+0,28,Full controller support,611544
+1,33,Native Steam Controller Support,611544
+2,13,Captions available,611544
+0,28,Full controller support,611545
+1,33,Native Steam Controller Support,611545
+2,13,Captions available,611545
+0,28,Full controller support,611546
+1,33,Native Steam Controller Support,611546
+2,13,Captions available,611546
+0,28,Full controller support,611547
+1,33,Native Steam Controller Support,611547
+2,13,Captions available,611547
+0,28,Full controller support,611548
+1,33,Native Steam Controller Support,611548
+2,13,Captions available,611548
+0,28,Full controller support,611549
+1,33,Native Steam Controller Support,611549
+2,13,Captions available,611549
+0,2,Single-player,611550
+1,22,Steam Achievements,611550
+2,28,Full controller support,611550
+3,23,Steam Cloud,611550
+4,25,Steam Leaderboards,611550
+0,2,Single-player,611220
+1,22,Steam Achievements,611220
+2,18,Partial Controller Support,611220
+0,2,Single-player,611230
+1,22,Steam Achievements,611230
+2,29,Steam Trading Cards,611230
+0,1,Multi-player,611250
+1,9,Co-op,611250
+2,27,Cross-Platform Multiplayer,611250
+3,21,Downloadable Content,611250
+0,1,Multi-player,611260
+1,20,MMO,611260
+2,49,PvP,611260
+3,36,Online PvP,611260
+0,1,Multi-player,611270
+1,9,Co-op,611270
+2,27,Cross-Platform Multiplayer,611270
+3,21,Downloadable Content,611270
+0,1,Multi-player,611300
+1,9,Co-op,611300
+2,27,Cross-Platform Multiplayer,611300
+3,28,Full controller support,611300
+4,30,Steam Workshop,611300
+5,23,Steam Cloud,611300
+6,15,Stats,611300
+0,1,Multi-player,611310
+1,9,Co-op,611310
+2,27,Cross-Platform Multiplayer,611310
+3,21,Downloadable Content,611310
+0,2,Single-player,611320
+1,22,Steam Achievements,611320
+2,29,Steam Trading Cards,611320
+3,18,Partial Controller Support,611320
+4,17,Includes level editor,611320
+0,1,Multi-player,611350
+1,49,PvP,611350
+2,36,Online PvP,611350
+3,9,Co-op,611350
+4,38,Online Co-op,611350
+5,29,Steam Trading Cards,611350
+0,1,Multi-player,611360
+1,49,PvP,611360
+2,36,Online PvP,611360
+3,9,Co-op,611360
+4,38,Online Co-op,611360
+5,28,Full controller support,611360
+6,35,In-App Purchases,611360
+0,2,Single-player,611370
+1,21,Downloadable Content,611370
+2,22,Steam Achievements,611370
+3,29,Steam Trading Cards,611370
+4,23,Steam Cloud,611370
+0,2,Single-player,611390
+1,29,Steam Trading Cards,611390
+0,2,Single-player,611400
+1,21,Downloadable Content,611400
+2,22,Steam Achievements,611400
+3,29,Steam Trading Cards,611400
+4,30,Steam Workshop,611400
+5,23,Steam Cloud,611400
+0,2,Single-player,611420
+1,21,Downloadable Content,611420
+2,22,Steam Achievements,611420
+3,29,Steam Trading Cards,611420
+4,30,Steam Workshop,611420
+5,23,Steam Cloud,611420
+0,2,Single-player,611421
+1,21,Downloadable Content,611421
+2,22,Steam Achievements,611421
+3,29,Steam Trading Cards,611421
+4,30,Steam Workshop,611421
+5,23,Steam Cloud,611421
+0,28,Full controller support,611430
+1,33,Native Steam Controller Support,611430
+2,13,Captions available,611430
+0,28,Full controller support,611431
+1,33,Native Steam Controller Support,611431
+2,13,Captions available,611431
+0,28,Full controller support,611432
+1,33,Native Steam Controller Support,611432
+2,13,Captions available,611432
+0,28,Full controller support,611440
+1,33,Native Steam Controller Support,611440
+2,13,Captions available,611440
+0,28,Full controller support,611441
+1,33,Native Steam Controller Support,611441
+2,13,Captions available,611441
+0,28,Full controller support,611442
+1,33,Native Steam Controller Support,611442
+2,13,Captions available,611442
+0,28,Full controller support,611443
+1,33,Native Steam Controller Support,611443
+2,13,Captions available,611443
+0,28,Full controller support,611444
+1,33,Native Steam Controller Support,611444
+2,13,Captions available,611444
+0,28,Full controller support,611445
+1,33,Native Steam Controller Support,611445
+2,13,Captions available,611445
+0,28,Full controller support,611446
+1,33,Native Steam Controller Support,611446
+2,13,Captions available,611446
+0,28,Full controller support,611447
+1,33,Native Steam Controller Support,611447
+2,13,Captions available,611447
+0,28,Full controller support,611448
+1,33,Native Steam Controller Support,611448
+2,13,Captions available,611448
+0,28,Full controller support,611449
+1,33,Native Steam Controller Support,611449
+2,13,Captions available,611449
+0,28,Full controller support,611450
+1,33,Native Steam Controller Support,611450
+2,13,Captions available,611450
+0,28,Full controller support,611451
+1,33,Native Steam Controller Support,611451
+2,13,Captions available,611451
+0,28,Full controller support,611452
+1,33,Native Steam Controller Support,611452
+2,13,Captions available,611452
+0,28,Full controller support,611460
+1,33,Native Steam Controller Support,611460
+2,13,Captions available,611460
+0,28,Full controller support,611470
+1,33,Native Steam Controller Support,611470
+2,13,Captions available,611470
+0,28,Full controller support,611480
+1,33,Native Steam Controller Support,611480
+2,13,Captions available,611480
+0,28,Full controller support,611481
+1,33,Native Steam Controller Support,611481
+2,13,Captions available,611481
+0,28,Full controller support,611482
+1,33,Native Steam Controller Support,611482
+2,13,Captions available,611482
+0,28,Full controller support,611483
+1,33,Native Steam Controller Support,611483
+2,13,Captions available,611483
+0,28,Full controller support,611484
+1,33,Native Steam Controller Support,611484
+2,13,Captions available,611484
+0,28,Full controller support,611485
+1,33,Native Steam Controller Support,611485
+2,13,Captions available,611485
+0,28,Full controller support,611486
+1,33,Native Steam Controller Support,611486
+2,13,Captions available,611486
+0,28,Full controller support,611487
+1,33,Native Steam Controller Support,611487
+2,13,Captions available,611487
+0,28,Full controller support,611488
+1,33,Native Steam Controller Support,611488
+2,13,Captions available,611488
+0,28,Full controller support,611489
+1,33,Native Steam Controller Support,611489
+2,13,Captions available,611489
+0,2,Single-player,610740
+0,2,Single-player,610750
+1,22,Steam Achievements,610750
+2,29,Steam Trading Cards,610750
+0,1,Multi-player,610760
+1,9,Co-op,610760
+2,27,Cross-Platform Multiplayer,610760
+3,21,Downloadable Content,610760
+0,2,Single-player,610780
+1,29,Steam Trading Cards,610780
+0,28,Full controller support,610790
+1,33,Native Steam Controller Support,610790
+2,13,Captions available,610790
+0,2,Single-player,610810
+1,22,Steam Achievements,610810
+2,29,Steam Trading Cards,610810
+0,2,Single-player,610820
+1,21,Downloadable Content,610820
+2,29,Steam Trading Cards,610820
+0,1,Multi-player,610830
+1,9,Co-op,610830
+2,27,Cross-Platform Multiplayer,610830
+3,21,Downloadable Content,610830
+0,2,Single-player,610840
+1,22,Steam Achievements,610840
+2,29,Steam Trading Cards,610840
+3,18,Partial Controller Support,610840
+0,1,Multi-player,610850
+1,9,Co-op,610850
+2,27,Cross-Platform Multiplayer,610850
+3,21,Downloadable Content,610850
+0,2,Single-player,610860
+1,1,Multi-player,610860
+2,49,PvP,610860
+3,36,Online PvP,610860
+4,37,Shared/Split Screen PvP,610860
+5,44,Remote Play Together,610860
+0,1,Multi-player,610870
+1,9,Co-op,610870
+2,27,Cross-Platform Multiplayer,610870
+3,21,Downloadable Content,610870
+0,2,Single-player,610900
+1,22,Steam Achievements,610900
+2,29,Steam Trading Cards,610900
+0,2,Single-player,610910
+1,1,Multi-player,610910
+2,9,Co-op,610910
+3,21,Downloadable Content,610910
+0,1,Multi-player,610940
+1,49,PvP,610940
+2,36,Online PvP,610940
+3,9,Co-op,610940
+4,38,Online Co-op,610940
+5,35,In-App Purchases,610940
+6,18,Partial Controller Support,610940
+0,2,Single-player,610960
+1,22,Steam Achievements,610960
+2,29,Steam Trading Cards,610960
+3,18,Partial Controller Support,610960
+4,23,Steam Cloud,610960
+0,2,Single-player,610970
+1,1,Multi-player,610970
+2,9,Co-op,610970
+3,21,Downloadable Content,610970
+0,2,Single-player,610980
+1,22,Steam Achievements,610980
+2,29,Steam Trading Cards,610980
+3,23,Steam Cloud,610980

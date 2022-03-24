@@ -21,12 +21,12 @@ This is the repository for the course [Online Data Collection and Management ](h
 
 ## Data
 
-* steam webAPI (And others) documentation) : https://partner.steamgames.com/doc/webapi
+* Steam webAPI (And others) documentation) : https://partner.steamgames.com/doc/webapi
 
 
 ## More resources
 
-* example how to write the project:  https://zenodo.org/record/5902839#.YfAO02DTX0o
+* Example how to write the project:  https://zenodo.org/record/5902839#.YfAO02DTX0o
 
 
 

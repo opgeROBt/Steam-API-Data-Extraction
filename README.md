@@ -24,7 +24,7 @@ To aid against the lack of available data on the video game industry, this team 
 Our full research documentation can be found in the [**documentation**](https://github.com/opgeROBt/steam-API/tree/main/documentation) folder. 
 
 # Repository overview
-### **scr/collection** 
+### **src/collection** 
 The src folder contains two folders for collection and reporting. The collection folder holds the seperate python files that are needed to collect the data and parse them in seperate files or dataframes. The folder reporting is at this moment empty and can be used for reporting purposes when working with the data. For now this was left empty since our project focused mainly on collecting the data. 
 
 ### **data** 

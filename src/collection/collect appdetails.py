@@ -34,8 +34,11 @@ for i in app_ids:
             break
         id = str(i)
         counter = counter + 1
-        app_data = getAppDetails(i)
-        print("Processing data pertaining to Steam ID:"+id)
+        try:
+            app_data = getAppDetails(i)
+            print("Processing data pertaining to Steam ID:"+id)
+        except:
+            pass
     else:
         print(f"Skipping id {str(i)}")
 

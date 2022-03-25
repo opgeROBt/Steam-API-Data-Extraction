@@ -5,8 +5,8 @@
 
 
 #This code takes the raw_data.json output and parses it based on the keys given in the code. 
-keys = ['categories','package_groups','genres','screenshots','movies', 'achievements.highlighted']
-Allkeys = ['raw', 'categories','package_groups','genres','screenshots','movies', 'achievements.highlighted']
+keys = ['categories','package_groups','genres','screenshots','movies']
+Allkeys = ['raw', 'categories','package_groups','genres','screenshots','movies']
 dataframes = {}
 
 #creates dataframes for the seperate parsing keys 

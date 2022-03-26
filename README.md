@@ -1,10 +1,10 @@
 
 
-# Steam-API-Data-Extraction
+# Steam API Data Extraction
 ![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/New_Steam_Logo_with_name.jpg)
 
 
-# index
+# Index
 1. [About this project](https://github.com/opgeROBt/steam-API#about-this-project)
 2. [Repository overview](https://github.com/opgeROBt/steam-API#repository-overview)
 3. [Running instructions](https://github.com/opgeROBt/steam-API#running-instructions)

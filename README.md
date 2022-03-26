@@ -5,13 +5,11 @@
 
 
 # index
-1. About-this-project
-2. Repository overview
-3. Running instructions
-4. Documentation  
-5. About 
-6. Contributors 
-
+1. [About this project](https://github.com/opgeROBt/steam-API#about-this-project)
+2. [Repository overview](https://github.com/opgeROBt/steam-API#repository-overview)
+3. [Running instructions](https://github.com/opgeROBt/steam-API#running-instructions)
+4. [About](https://github.com/opgeROBt/steam-API#about) 
+5. [Contributors](https://github.com/opgeROBt/steam-API#contributors) 
  
 
 # About-this-project  

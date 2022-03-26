@@ -1,6 +1,6 @@
 
 
-# Steam-API-Data-Extraction
+# Steam API Data Extraction
 ![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/New_Steam_Logo_with_name.jpg)
 
 

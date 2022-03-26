@@ -35,11 +35,11 @@ Our full research documentation can be found in the [**documentation**](https://
 # Running instructions 
 
 ### **run in following order**  
-"libraries and functions.py" ->  "collect all app id's.py" -> "collect appdetails.py" ->  "parsing nested json into dataframes and excel files.py"
+`libraries and functions.py` ->  `collect all app id's.py` -> `collect appdetails.py` ->  `parsing nested json into dataframes and excel files.py`
 
 
 ### **step 1 | installing libraries and functions**
-The following libraries are needed to run the code. These have been added in the 'libraries and functions script which should always be run as the first script. 
+The following libraries are needed to run the code. These have been added in the `libraries and functions.py` script which should always be run as the first script. 
  
 
 ```
@@ -60,19 +60,16 @@ getAppDetails(id)                  #the function used to collect the appdetails 
 ```
 
 ### **step 2 | collect available app_ids**
-By running the code from 'collect all app id's.py'  all app ids from the steam store are collected in the 'app_ids.json' and saved in the /data folder. 
+By running the code from `collect all app id's.py`  all app ids from the steam store are collected in the `app_ids.json`  and saved in the `/data` folder. 
 
 ### **step 3 | collect app_details per app_id**
-This is where the magic happens and the details of every app is collected and put in a big raw_data.json. It is possible to specify of how many app_id's the details should be collected. Since running the code can be very time consuming. Benchmark: circa 60 minutes per 2500 app ids. This is due to the **limitations** that are set. Although there is no official documentation on this, there is a limit of around 10 calls per 10 seconds with a maximum of 100.000 calls per day. Furthermore, a timestamp is added to the collected data to keep track of when which records have been collected.  
+This is where the magic happens and the details of every app is collected and put in a big raw_data.json. It is possible to specify of how many app_id's the details should be collected. Since running the code can be very time consuming. Benchmark: circa 60 minutes per 2500 app ids. This is due to the `limitations` that are set. Although there is no official documentation on this, there is a limit of around 10 calls per 10 seconds with a maximum of 100.000 calls per day. Furthermore, a timestamp is added to the collected data to keep track of when which records have been collected.  
 
 ### **step 4 | parse raw data to usable datasets**
-This code parses all the data in the raw_data.json file and puts for every nested category the data in seperate dataframes. The steam_appid is included in the parsed dataframe which gives the option to join the data to the raw dataset when further exploration is needed.   
+This code parses all the data in the `raw_data.json` file and puts for every nested category the data in seperate dataframes. The steam_appid is included in the parsed dataframe which gives the option to join the data to the raw dataset when further exploration is needed.   
 
 # About 
-This is the repository for the course [Online Data Collection and Management ](https://odcm.hannesdatta.com/) at Tilburg University as part of the Master's program 'Marketing Analytics'.    
-
-
-
+This is the repository for the course [Online Data Collection and Management ](https://odcm.hannesdatta.com/) at Tilburg University as part of the Master's program `Marketing Analytics`.    
 
 # Contributors  
  * [Cas van Dijk](https://github.com/Cas-24), c.c.j.m.vandijk@tilburguniversity.edu

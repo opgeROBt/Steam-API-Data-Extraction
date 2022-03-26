@@ -35,8 +35,10 @@ Our full research documentation can be found in the [**documentation**](https://
 # Running instructions 
 
 ### **run in following order**  
-`libraries and functions.py` ->  `collect all app id's.py` -> `collect appdetails.py` ->  `parsing nested json into dataframes and excel files.py`
-
+1. `libraries and functions.py`  
+2. `collect all app id's.py`  
+3. `collect appdetails.py`
+4. `parsing nested json into dataframes and excel files.py`
 
 ### **step 1 | installing libraries and functions**
 The following libraries are needed to run the code. These have been added in the `libraries and functions.py` script which should always be run as the first script. 
